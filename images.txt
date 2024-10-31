@@ -1,4 +1,1 @@
-ollama/ollama
-dockurr/windows
 openiap/openflow:1.5.10
-
