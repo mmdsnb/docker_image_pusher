@@ -1,1 +1,1 @@
-ascendai/cann
+--platform=linux/arm64/v8 ascendai/cann
