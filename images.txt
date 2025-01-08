@@ -1,4 +1,2 @@
 #--platform=linux/arm64/v8 wangshuai09/ubuntu-cann7.0.0-torch21-py310-stable_diffusion:latest
---platform=linux/arm64/v8 ubuntu
-
-
+--platform=linux/arm64/v8 serengil/deepface
