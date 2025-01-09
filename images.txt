@@ -1,3 +1,3 @@
 #--platform=linux/arm64/v8 wangshuai09/ubuntu-cann7.0.0-torch21-py310-stable_diffusion:latest
 #serengil/deepface
-deepface-react-ui
+node:14-alpine
