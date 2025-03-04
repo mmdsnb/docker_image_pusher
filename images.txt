@@ -1,3 +1,4 @@
 #--platform=linux/arm64/v8 wangshuai09/ubuntu-cann7.0.0-torch21-py310-stable_diffusion:latest
 #serengil/deepface
-node:14-alpine
+#node:14-alpine
+v2fly/v2fly-core
