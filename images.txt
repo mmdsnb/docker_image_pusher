@@ -4,5 +4,5 @@
 #--platform=linux/arm64/v8 python:3.10.16
 #bitnami/postgresql
 
-#ghcr.io/astral-sh/uv:python3.12-bookworm-slim
-python:3.12.3-slim
+--platform=linux/arm64/v8 ghcr.io/astral-sh/uv:python3.12-bookworm-slim
+--platform=linux/arm64/v8 python:3.12.3-slim
