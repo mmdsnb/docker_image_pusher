@@ -3,6 +3,4 @@
 #node:14-alpine
 #--platform=linux/arm64/v8 python:3.10.16
 #bitnami/postgresql
-
---platform=linux/arm64/v8 ghcr.io/astral-sh/uv:python3.12-bookworm-slim
---platform=linux/arm64/v8 python:3.12.3-slim
+--platform=linux/arm64/v8 langflowai/langflow:1.2.0
