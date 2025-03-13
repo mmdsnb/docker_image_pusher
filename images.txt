@@ -2,5 +2,6 @@
 #serengil/deepface
 #node:14-alpine
 #--platform=linux/arm64/v8 python:3.10.16
-bitnami/postgresql
+#bitnami/postgresql
 
+ghcr.io/astral-sh/uv:python3.12-bookworm-slim
