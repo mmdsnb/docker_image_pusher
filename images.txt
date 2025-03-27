@@ -3,4 +3,5 @@
 #node:14-alpine
 #--platform=linux/arm64/v8 python:3.10.16
 #bitnami/postgresql
---platform=linux/arm64/v8 langflowai/langflow:1.2.0
+#--platform=linux/arm64/v8 langflowai/langflow:1.2.0
+dreamacro/clash
