@@ -4,4 +4,8 @@
 #--platform=linux/arm64/v8 python:3.10.16
 #bitnami/postgresql
 #--platform=linux/arm64/v8 langflowai/langflow:1.2.0
-dreamacro/clash
+#dreamacro/clash
+us-east1-docker.pkg.dev/cq-cloud-prod/platform/full:v1.0.0
+us-east1-docker.pkg.dev/cq-cloud-prod/platform/scheduler:v1.0.0-docker
+clickhouse/clickhouse-server:24.11
+otel/opentelemetry-collector-contrib:0.113.0
