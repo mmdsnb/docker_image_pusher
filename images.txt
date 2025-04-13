@@ -12,4 +12,5 @@
 #ghcr.io/cloudquery/cloudquery:latest
 #apache/nifi
 #golang
-docker:dind
+#docker:dind
+rancher/k3s
