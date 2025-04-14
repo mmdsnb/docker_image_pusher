@@ -31,4 +31,6 @@
 #minio/minio:RELEASE.2023-11-20T22-40-07Z
 #airbyte/airbyte-base-java-image:3.3.3
 #airbyte/db:1.6.0
-airbyte/async-profiler:build-515201c1cd-21678-master
+#airbyte/async-profiler:build-515201c1cd-21678-master
+
+#--platform=linux/arm64/v8 registry
