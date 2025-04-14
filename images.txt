@@ -41,3 +41,5 @@
 #docker.io/rancher/mirrored-pause:3.6
 #--platform=linux/arm64/v8 docker:dind
 docker.io/rancher/mirrored-metrics-server:v0.7.2
+docker.io/rancher/mirrored-pause:3.6
+
