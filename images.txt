@@ -39,5 +39,5 @@
 #ghcr.io/k3d-io/k3d-tools:5.8.3
 #ghcr.io/k3d-io/k3d-proxy:5.8.3
 #docker.io/rancher/mirrored-pause:3.6
---platform=linux/arm64/v8 docker:dind
-
+#--platform=linux/arm64/v8 docker:dind
+docker.io/rancher/mirrored-metrics-server:v0.7.2
