@@ -33,4 +33,4 @@
 #airbyte/db:1.6.0
 #airbyte/async-profiler:build-515201c1cd-21678-master
 
---platform=linux/arm64/v8 registry
+--platform=linux/arm64/v8 registry:2
