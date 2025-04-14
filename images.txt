@@ -36,4 +36,5 @@
 #--platform=linux/arm64/v8 registry:2
 
 #docker.io/rancher/k3s:v1.31.5-k3s1
-ghcr.io/k3d-io/k3d-tools:5.8.3
+#ghcr.io/k3d-io/k3d-tools:5.8.3
+ghcr.io/k3d-io/k3d-proxy:5.8.3
