@@ -49,4 +49,5 @@
 #docker.io/rancher/klipper-lb:v0.4.9
 #docker.io/rancher/mirrored-library-traefik:2.11.18
 
-airbyte/source-confluence:1.0.1
+#airbyte/source-confluence:1.0.1
+atlassian/confluence
