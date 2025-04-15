@@ -50,4 +50,5 @@
 #docker.io/rancher/mirrored-library-traefik:2.11.18
 
 #airbyte/source-confluence:1.0.1
-atlassian/confluence
+#atlassian/confluence
+airbyte/source-declarative-manifest:6.41.5
