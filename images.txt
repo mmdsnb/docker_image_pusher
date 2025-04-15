@@ -53,4 +53,5 @@
 #atlassian/confluence
 #airbyte/source-declarative-manifest:6.41.5
 
-airbyte/destination-mssql:2.2.2
+#airbyte/destination-mssql:2.2.2
+airbyte/destination-mssql:1.1.1
