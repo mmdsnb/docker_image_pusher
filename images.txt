@@ -56,4 +56,5 @@
 #airbyte/destination-mssql:2.2.2
 #airbyte/destination-mysql:1.1.0
 
-atlassian/confluence:8.5.0
+#atlassian/confluence:8.5.0
+cnk3x/xunlei
