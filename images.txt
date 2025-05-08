@@ -57,4 +57,5 @@
 #airbyte/destination-mysql:1.1.0
 
 #atlassian/confluence:8.5.0
-cnk3x/xunlei
+#cnk3x/xunlei
+docker/dockerfile:1
