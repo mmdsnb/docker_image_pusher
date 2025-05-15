@@ -60,4 +60,4 @@
 #cnk3x/xunlei
 #docker/dockerfile:1
 #qemux/qemu
-#docker/dockerfile:1.4
+docker/dockerfile:1.4
