@@ -59,4 +59,5 @@
 #atlassian/confluence:8.5.0
 #cnk3x/xunlei
 #docker/dockerfile:1
-qemux/qemu
+#qemux/qemu
+#docker/dockerfile:1.4
