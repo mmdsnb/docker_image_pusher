@@ -64,5 +64,6 @@
 #ubuntu:24.04
 #--platform=linux/arm64/v8 ubuntu:24.04
 #kasmweb/core-ubuntu-noble:x86_64-develop
+
 --platform=linux/arm64/v8 kasmweb/core-ubuntu-noble:aarch64-develop
 
