@@ -66,4 +66,6 @@
 #kasmweb/core-ubuntu-noble:x86_64-develop
 
 #--platform=linux/arm64/v8 kasmweb/core-ubuntu-noble:aarch64-develop
---platform=linux/arm64/v8 docker/dockerfile:1
+#--platform=linux/arm64/v8 docker/dockerfile:1
+kasmweb/chrome:1.17.0
+
