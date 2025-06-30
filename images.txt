@@ -67,5 +67,7 @@
 
 #--platform=linux/arm64/v8 kasmweb/core-ubuntu-noble:aarch64-develop
 #--platform=linux/arm64/v8 docker/dockerfile:1
-kasmweb/chrome:1.17.0
+# kasmweb/chrome:1.17.0
+node:24.3-alpine
+--platform=linux/arm64/v8 node:24.3-alpine
 
