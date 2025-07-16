@@ -70,5 +70,8 @@
 # kasmweb/chrome:1.17.0
 #node:24.3-alpine
 #--platform=linux/arm64/v8 node:24.3-alpine
-ghcr.io/puppeteer/puppeteer:24.11.1
---platform=linux/arm64/v8 ghcr.io/puppeteer/puppeteer:24.11.1
+#ghcr.io/puppeteer/puppeteer:24.11.1
+#--platform=linux/arm64/v8 ghcr.io/puppeteer/puppeteer:24.11.1
+qdrant/qdrant
+mem0/openmemory-mcp
+mem0/openmemory-ui:latest
