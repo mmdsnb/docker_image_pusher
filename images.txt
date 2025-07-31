@@ -75,4 +75,5 @@
 #qdrant/qdrant
 #mem0/openmemory-mcp
 #mem0/openmemory-ui:latest
-node:18-alpine
+#node:18-alpine
+uozi/nginx-ui
