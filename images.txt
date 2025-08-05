@@ -76,4 +76,5 @@
 #mem0/openmemory-mcp
 #mem0/openmemory-ui:latest
 #node:18-alpine
-uozi/nginx-ui
+#uozi/nginx-ui
+metacubex/mihomo
