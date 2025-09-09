@@ -80,4 +80,6 @@
 #metacubex/mihomo
 
 #--platform=linux/arm64/v8 docker:dind
---platform=linux/arm64/v8 dreamacro/clash
+#--platform=linux/arm64/v8 dreamacro/clash
+
+--platform=linux/arm64/v8 dockurr/windows
