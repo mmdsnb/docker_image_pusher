@@ -83,4 +83,7 @@
 #--platform=linux/arm64/v8 dreamacro/clash
 
 #--platform=linux/arm64/v8 dockurr/windows
---platform=linux/arm64/v8 heartexlabs/label-studio:latest
+#--platform=linux/arm64/v8 heartexlabs/label-studio:latest
+
+
+--platform=linux/arm64/v8 cubejs/cube
