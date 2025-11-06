@@ -88,12 +88,13 @@
 
 # --platform=linux/arm64/v8 cubejs/cube
 
---platform=linux/arm64/v8 langgenius/dify-api:1.9.2
---platform=linux/arm64/v8 langgenius/dify-sandbox:0.2.12
---platform=linux/arm64/v8 langgenius/dify-web:1.9.2
---platform=linux/arm64/v8 langgenius/dify-plugin-daemon:0.3.3-local
---platform=linux/arm64/v8 nginx:latest
---platform=linux/arm64/v8 redis:6-alpine
---platform=linux/arm64/v8 postgres:15-alpine
---platform=linux/arm64/v8 ubuntu/squid:latest
+#--platform=linux/arm64/v8 langgenius/dify-api:1.9.2
+#--platform=linux/arm64/v8 langgenius/dify-sandbox:0.2.12
+#--platform=linux/arm64/v8 langgenius/dify-web:1.9.2
+#--platform=linux/arm64/v8 langgenius/dify-plugin-daemon:0.3.3-local
+#--platform=linux/arm64/v8 nginx:latest
+#--platform=linux/arm64/v8 redis:6-alpine
+#--platform=linux/arm64/v8 postgres:15-alpine
+#--platform=linux/arm64/v8 ubuntu/squid:latest
+--platform=linux/arm64/v8 semitechnologies/weaviate:1.27.0
 
