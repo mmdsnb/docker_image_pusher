@@ -98,5 +98,5 @@
 #--platform=linux/arm64/v8 ubuntu/squid:latest
 #--platform=linux/arm64/v8 semitechnologies/weaviate:1.27.0
 
---platform=linux/arm64/v8 onlyoffice/documentserver
+--platform=linux/arm64/v8 onlyoffice/documentserver:8.2
 
