@@ -104,4 +104,5 @@
 #test-image:latest
 #alpine:latest
 #alpine:latest
+#openhands/openhands
 openhands/openhands
