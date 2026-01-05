@@ -99,6 +99,7 @@
 #--platform=linux/arm64/v8 semitechnologies/weaviate:1.27.0
 
 #--platform=linux/arm64/v8 onlyoffice/documentserver:8.3.2
-docker.openhands.dev/openhands/runtime:latest-nikolaik
+#docker.openhands.dev/openhands/runtime:latest-nikolaik
 
-test-image:latest
+#test-image:latest
+alpine:latest
