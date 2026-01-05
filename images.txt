@@ -106,4 +106,5 @@
 #alpine:latest
 #openhands/openhands
 #openhands/openhands
-docker.openhands.dev/openhands/openhands:latest
+#docker.openhands.dev/openhands/openhands:latest
+nginx:alpine
