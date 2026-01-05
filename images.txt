@@ -108,4 +108,5 @@
 #openhands/openhands
 #docker.openhands.dev/openhands/openhands:latest
 #nginx:alpine
-nginx:alpine
+#nginx:alpine
+docker.openhands.dev/openhands/openhands:latest
