@@ -82,10 +82,10 @@ jobs:
             # 将@sha256:等字符删除
             image="${image%%@*}"
             
-            # 使用与docker_tool相同的命名规则：替换特殊字符
+            # 使用与docker_tool相同的命名规则：替换特殊字符（小写）
             aliyun_image_name="${platform_prefix}${image}"
-            aliyun_image_name="${aliyun_image_name//\//_SLASH_}"  # 斜杠 -> _SLASH_
-            aliyun_image_name="${aliyun_image_name//\./_DOT_}"    # 点号 -> _DOT_
+            aliyun_image_name="${aliyun_image_name//\//_slash_}"  # 斜杠 -> _slash_
+            aliyun_image_name="${aliyun_image_name//\./_dot_}"    # 点号 -> _dot_
             
             new_image="$ALIYUN_REGISTRY/$ALIYUN_NAME_SPACE/$aliyun_image_name"
             echo "docker tag $image $new_image"
