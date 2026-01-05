@@ -113,4 +113,5 @@
 #docker.openhands.dev/openhands/openhands:latest
 #docker.openhands.dev/openhands/openhands:latest
 #docker.openhands.dev/openhands/openhands:latest
-gcr.io/distroless/static:latest
+#gcr.io/distroless/static:latest
+docker.openhands.dev/openhands/openhands:latest
