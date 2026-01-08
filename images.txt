@@ -114,4 +114,6 @@
 #docker.openhands.dev/openhands/openhands:latest
 #docker.openhands.dev/openhands/openhands:latest
 #gcr.io/distroless/static:latest
-docker.openhands.dev/openhands/openhands:latest
+#docker.openhands.dev/openhands/openhands:latest
+
+--platform=linux/arm64/v8 pycaret/full
