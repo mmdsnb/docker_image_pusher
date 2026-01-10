@@ -117,4 +117,5 @@
 #docker.openhands.dev/openhands/openhands:latest
 
 #--platform=linux/arm64/v8 pycaret/full
+#neo4j:community
 neo4j:community
