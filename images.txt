@@ -116,4 +116,5 @@
 #gcr.io/distroless/static:latest
 #docker.openhands.dev/openhands/openhands:latest
 
---platform=linux/arm64/v8 pycaret/full
+#--platform=linux/arm64/v8 pycaret/full
+neo4j:community
