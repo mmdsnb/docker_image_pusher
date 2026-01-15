@@ -118,4 +118,5 @@
 
 #--platform=linux/arm64/v8 pycaret/full
 #neo4j:community
-neo4j:community
+#neo4j:community
+pyqlib/qlib_image_stable:stable
