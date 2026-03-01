@@ -120,4 +120,5 @@
 #neo4j:community
 #neo4j:community
 #pyqlib/qlib_image_stable:stable
-python:3.12-slim
+#python:3.12-slim
+ghcr.io/browserless/chromium
