@@ -123,4 +123,5 @@
 #python:3.12-slim
 #ghcr.io/browserless/chromium
 #tailscale/tailscale
-metacubex/mihomo:latest
+#metacubex/mihomo:latest
+ghcr.io/metacubex/metacubexd:latest
