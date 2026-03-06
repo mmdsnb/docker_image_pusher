@@ -122,4 +122,5 @@
 #pyqlib/qlib_image_stable:stable
 #python:3.12-slim
 #ghcr.io/browserless/chromium
-tailscale/tailscale
+#tailscale/tailscale
+metacubex/mihomo:latest
