@@ -124,4 +124,6 @@
 #ghcr.io/browserless/chromium
 #tailscale/tailscale
 #metacubex/mihomo:latest
-ghcr.io/metacubex/metacubexd:latest
+#ghcr.io/metacubex/metacubexd:latest
+eceasy/cli-proxy-api:latest
+
