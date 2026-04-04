@@ -128,4 +128,5 @@
 #eceasy/cli-proxy-api:latest
 #docker.n8n.io/n8nio/n8n:latest
 #langflowai/langflow
-n8nio/runners:nightly
+#n8nio/runners:nightly
+danielgatis/rembg
