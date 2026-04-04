@@ -127,4 +127,5 @@
 #ghcr.io/metacubex/metacubexd:latest
 #eceasy/cli-proxy-api:latest
 #docker.n8n.io/n8nio/n8n:latest
-langflowai/langflow
+#langflowai/langflow
+n8nio/runners:nightly
