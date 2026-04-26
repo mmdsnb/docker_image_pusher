@@ -129,4 +129,5 @@
 #docker.n8n.io/n8nio/n8n:latest
 #langflowai/langflow
 #n8nio/runners:nightly
-danielgatis/rembg
+#danielgatis/rembg
+ghcr.io/steel-dev/steel-browser
