@@ -131,4 +131,5 @@
 #n8nio/runners:nightly
 #danielgatis/rembg
 #ghcr.io/steel-dev/steel-browser
-daytonaio/daytona-api
+#daytonaio/daytona-api
+daytonaio/daytona-proxy
