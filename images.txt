@@ -138,4 +138,5 @@
 #dexidp/dex:v2.42.0
 #joxit/docker-registry-ui:main
 #registry:2.8.2
-maildev/maildev
+#maildev/maildev
+jaegertracing/all-in-one:1.67.0
