@@ -134,4 +134,5 @@
 #daytonaio/daytona-api
 #daytonaio/daytona-proxy
 #daytonaio/daytona-runner
-daytonaio/daytona-ssh-gateway
+#daytonaio/daytona-ssh-gateway
+dexidp/dex:v2.42.0
