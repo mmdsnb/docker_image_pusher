@@ -132,4 +132,5 @@
 #danielgatis/rembg
 #ghcr.io/steel-dev/steel-browser
 #daytonaio/daytona-api
-daytonaio/daytona-proxy
+#daytonaio/daytona-proxy
+daytonaio/daytona-runner
