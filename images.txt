@@ -133,4 +133,5 @@
 #ghcr.io/steel-dev/steel-browser
 #daytonaio/daytona-api
 #daytonaio/daytona-proxy
-daytonaio/daytona-runner
+#daytonaio/daytona-runner
+daytonaio/daytona-ssh-gateway
