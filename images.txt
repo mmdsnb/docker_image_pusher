@@ -139,4 +139,5 @@
 #joxit/docker-registry-ui:main
 #registry:2.8.2
 #maildev/maildev
-jaegertracing/all-in-one:1.67.0
+#jaegertracing/all-in-one:1.67.0
+otel/opentelemetry-collector-contrib:0.138.0
