@@ -136,4 +136,5 @@
 #daytonaio/daytona-runner
 #daytonaio/daytona-ssh-gateway
 #dexidp/dex:v2.42.0
-joxit/docker-registry-ui:main
+#joxit/docker-registry-ui:main
+registry:2.8.2
