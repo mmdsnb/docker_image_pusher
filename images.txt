@@ -137,4 +137,5 @@
 #daytonaio/daytona-ssh-gateway
 #dexidp/dex:v2.42.0
 #joxit/docker-registry-ui:main
-registry:2.8.2
+#registry:2.8.2
+maildev/maildev
