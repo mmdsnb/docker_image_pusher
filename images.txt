@@ -141,4 +141,5 @@
 #maildev/maildev
 #jaegertracing/all-in-one:1.67.0
 #otel/opentelemetry-collector-contrib:0.138.0
-daytonaio/sandbox:0.5.0-slim
+#daytonaio/sandbox:0.5.0-slim
+gzxhwq/sing-box:dev
