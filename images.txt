@@ -143,4 +143,5 @@
 #otel/opentelemetry-collector-contrib:0.138.0
 #daytonaio/sandbox:0.5.0-slim
 #gzxhwq/sing-box:dev
-gzxhwq/sing-box
+#gzxhwq/sing-box
+python:3.11.14-slim
