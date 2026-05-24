@@ -145,4 +145,5 @@
 #gzxhwq/sing-box:dev
 #gzxhwq/sing-box
 #python:3.11.14-slim
-cloakhq/cloakbrowser-manager
+#cloakhq/cloakbrowser-manager
+ghcr.io/resinat/resin:latest
