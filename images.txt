@@ -148,4 +148,4 @@
 #cloakhq/cloakbrowser-manager
 #ghcr.io/resinat/resin:latest
 #postgres
-cloudflare/cloudflared:latest
+--platform=linux/arm64/v8 cloudflare/cloudflared:latest
