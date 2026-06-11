@@ -147,4 +147,5 @@
 #python:3.11.14-slim
 #cloakhq/cloakbrowser-manager
 #ghcr.io/resinat/resin:latest
-postgres
+#postgres
+cloudflare/cloudflared:latest
